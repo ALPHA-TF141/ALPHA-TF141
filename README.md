@@ -123,9 +123,9 @@ Plan → Build → Test → Improve
 ## 🌐 COMMS CHANNELS
 
 ```
-GITHUB    : https://github.com/ALPHA-TF141
+GITHUB           : https://github.com/ALPHA-TF141
 Personal Website : https://alpha-tf141.github.io/
-EMAIL     : lmariaimmanuel@gmail.com
+EMAIL            : lmariaimmanuel@gmail.com
 ```
 
 ---
